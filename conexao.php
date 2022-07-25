@@ -10,10 +10,10 @@
 
 
 
-$host = "mysql.castingemcena.com.br";
-$user = "castingemcena1";
-$pass = "cafecomdoutor@";
-$banco="castingemcena1";
+$host = "";
+$user = "";
+$pass = "";
+$banco="";
 
 $connect = new mysqli($host, $user, $pass, $banco);
 
